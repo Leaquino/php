@@ -1,6 +1,8 @@
 <? php
 
-echo "Olá mundo!";
+echo "Olá mundo! Hoje esta um dia ensolarado";
+
+echo "Olá SENAI!";
 
 echo "Olá FIESP";
 
